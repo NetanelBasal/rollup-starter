@@ -1,6 +1,0 @@
-'use strict';
-
-var a = 1;
-
-console.log(a);
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjpudWxsLCJzb3VyY2VzIjpbInNyYy9tYWluLmpzIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBvYiBmcm9tICcuL29uZSdcbmltcG9ydCAnLi9zdHlsZS5zY3NzJ1xuXG5jb25zdCBhID0gMTtcblxuY29uc29sZS5sb2coYSk7Il0sIm5hbWVzIjpbImEiLCJjb25zb2xlIiwibG9nIl0sIm1hcHBpbmdzIjoiOztBQUdBLElBQU1BLElBQUksQ0FBVjs7QUFFQUMsUUFBUUMsR0FBUixDQUFZRixDQUFaIn0=
